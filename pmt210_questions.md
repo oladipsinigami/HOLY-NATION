@@ -675,3 +675,667 @@ Category: Production & Utility
 Text: Scales of production in business units can be small scale or ___ scale
 Correct: Large
 Model Answer: Large Scale
+
+---
+
+### QUESTION 76
+Type: MCQ
+Category: Microeconomics
+Text: Who defined economics as a practical science?
+Options: A. Lionel Robbins | B. Sam Aluko | C. J.S. Mill | D. A.C. Pigou
+Correct: C
+Model Answer: Option C
+
+---
+
+### QUESTION 77
+Type: MCQ
+Category: Microeconomics
+Text: Which of the following definitions of economics was adopted by a dictionary?
+Options: A. Lionel Robbins | B. Sam Aluko | C. J.S. Mill | D. A.C. Pigou
+Correct: C
+Model Answer: Option C
+
+---
+
+### QUESTION 78
+Type: MCQ
+Category: Microeconomics
+Text: Who defined economics as the queen of social science?
+Options: A. Lionel Robbins | B. Sam Aluko | C. Paul A. Samuelson | D. A.C. Pigou
+Correct: C
+Model Answer: Option C
+
+---
+
+### QUESTION 79
+Type: MCQ
+Category: Microeconomics
+Text: Who considered economics to be the study of mankind in ordinary business life?
+Options: A. Lionel Robbins | B. Sam Aluko | C. Alfred Marshall | D. A.C. Pigou
+Correct: C
+Model Answer: Option C
+
+---
+
+### QUESTION 80
+Type: MCQ
+Category: Microeconomics
+Text: Which of the following gave the more generally acceptable modern definition of economics?
+Options: A. Lionel Robbins | B. Sam Aluko | C. J.S. Mill | D. Alfred Marshall
+Correct: A
+Model Answer: Option A
+
+---
+
+### QUESTION 81
+Type: MCQ
+Category: Microeconomics
+Text: Who defined economics as "a science which studies human behaviour as a relationship between ends and scarce means which have alternative uses"?
+Options: A. Lionel Robbins | B. Sam Aluko | C. Alfred Marshall | D. A.C. Pigou
+Correct: A
+Model Answer: Option A
+
+---
+
+### QUESTION 82
+Type: German
+Category: Microeconomics
+Text: ___ refers to the limited nature of the supply of resources or means in relationship to the demand for them to satisfy wants.
+Correct: Scarcity
+Model Answer: Scarcity
+
+---
+
+### QUESTION 83
+Type: MCQ
+Category: Microeconomics
+Text: ___ is/are the fundamental economic problem of an individual, firm and the society generally.
+Options: A. Scarcity | B. Want | C. Choice | D. Scarcity and choice
+Correct: D
+Model Answer: Option D
+
+---
+
+### QUESTION 84
+Type: MCQ
+Category: Microeconomics
+Text: A socialist economy is also known as the following EXCEPT:
+Options: A. Communist economy | B. Centralised economy | C. Free enterprise economy | D. Command economy
+Correct: C
+Model Answer: Option C
+
+---
+
+### QUESTION 85
+Type: German
+Category: Microeconomics
+Text: ___ is an arrangement defining how resources are owned, and how production, distribution and consumption are organized and controlled in a society.
+Correct: Economic system
+Model Answer: Economic system
+
+---
+
+### QUESTION 86
+Type: MCQ
+Category: Microeconomics
+Text: A capitalist economy is otherwise known as the following EXCEPT:
+Options: A. Free-enterprise economy | B. Laissez-faire | C. Free market economy | D. None of the above
+Correct: D
+Model Answer: Option D
+
+---
+
+### QUESTION 87
+Type: MCQ
+Category: Microeconomics
+Text: Which of the following is NOT a function of an economic system?
+Options: A. Allocation of resources | B. Economic growth and development | C. Economic stability | D. None of the above
+Correct: D
+Model Answer: Option D
+
+---
+
+### QUESTION 88
+Type: German
+Category: Microeconomics
+Text: ___ is the process by which the monetary value of a commodity, service or factor of production is determined by the interplay of forces of supply and demand (Adam Smith called it the ___).
+Correct: Price mechanism / Invisible hand
+Model Answer: Price mechanism / Invisible hand
+
+---
+
+### QUESTION 89
+Type: German
+Category: Microeconomics
+Text: ___ is a table showing the quantity of a product that would be purchased at each of the possible prices.
+Correct: Demand schedule
+Model Answer: Demand schedule
+
+---
+
+### QUESTION 90
+Type: German
+Category: Microeconomics
+Text: ___ is a graphical illustration of the demand schedule.
+Correct: Demand curve
+Model Answer: Demand curve
+
+---
+
+### QUESTION 91
+Type: MCQ
+Category: Microeconomics
+Text: ___ refers to the quantity of a commodity which a single consumer would be willing and able to purchase at various possible prices.
+Options: A. Market demand | B. Individual demand | C. Personal demand | D. None of the above
+Correct: B
+Model Answer: Option B
+
+---
+
+### QUESTION 92
+Type: MCQ
+Category: Microeconomics
+Text: ___ is the sum of the various quantities that would be purchased by all consumers of the product at each alternative price.
+Options: A. Market demand | B. Individual demand | C. Personal demand | D. None of the above
+Correct: A
+Model Answer: Option A
+
+---
+
+### QUESTION 93
+Type: MCQ
+Category: Microeconomics
+Text: Which of the following clearly defines the increase in demand for cheap basic foodstuffs when their prices rise?
+Options: A. Goods of ostentation | B. Veblen goods | C. Cheap goods | D. Giffen goods
+Correct: D
+Model Answer: Option D
+
+---
+
+### QUESTION 94
+Type: MCQ
+Category: Microeconomics
+Text: In economics, goods of ostentation are also called:
+Options: A. Goods of ostentation | B. Veblen goods | C. Cheap goods | D. Giffen goods
+Correct: B
+Model Answer: Option B
+
+---
+
+### QUESTION 95
+Type: MCQ
+Category: Microeconomics
+Text: Which of the following is NOT a case where one may obtain an exceptional demand curve?
+Options: A. Inferior goods | B. Goods of ostentation | C. Fear of future rise in price | D. None of the above
+Correct: D
+Model Answer: Option D
+
+---
+
+### QUESTION 96
+Type: German
+Category: Microeconomics
+Text: ___ is the amount of a particular commodity the producer is able and willing to offer for sale over a specific time period.
+Correct: Supply
+Model Answer: Supply
+
+---
+
+### QUESTION 97
+Type: MCQ
+Category: Microeconomics
+Text: Who likened the forces of demand and supply to "two blades of scissors"?
+Options: A. Lionel Robbins | B. Sam Aluko | C. Alfred Marshall | D. A.C. Pigou
+Correct: C
+Model Answer: Option C
+
+---
+
+### QUESTION 98
+Type: MCQ
+Category: Microeconomics
+Text: The equilibrium price or market price is the price at which quantity demanded equals quantity supplied. True or False?
+Options: A. True | B. False
+Correct: A
+Model Answer: Option A
+
+---
+
+### QUESTION 99
+Type: MCQ
+Category: Microeconomics
+Text: Utility is the power or property of a commodity to satisfy human desire. True or False?
+Options: A. True | B. False
+Correct: A
+Model Answer: Option A
+
+---
+
+### QUESTION 100
+Type: MCQ
+Category: Microeconomics
+Text: ___ is the degree of responsiveness of demand in response to changes in price, taste, income or other determinants.
+Options: A. Price elasticity of demand | B. Elasticity of demand | C. Income elasticity of demand | D. Point elasticity of demand
+Correct: B
+Model Answer: Option B
+
+---
+
+### QUESTION 101
+Type: MCQ
+Category: Microeconomics
+Text: ___ is defined as the degree of responsiveness of demand for a commodity to changes in its own price.
+Options: A. Price elasticity of demand | B. Elasticity of demand | C. Income elasticity of demand | D. Point elasticity of demand
+Correct: A
+Model Answer: Option A
+
+---
+
+### QUESTION 102
+Type: MCQ
+Category: Microeconomics
+Text: ___ is the percentage change in quantity demanded of a commodity as a result of a percentage change in its price over a specific period.
+Options: A. Price elasticity of demand | B. Elasticity of demand | C. Income elasticity of demand | D. Point elasticity of demand
+Correct: B
+Model Answer: Option B
+
+---
+
+### QUESTION 103
+Type: MCQ
+Category: Microeconomics
+Text: The two main approaches used in measuring price elasticity of demand are the arc elasticity approach and:
+Options: A. Price elasticity | B. Elasticity | C. Income elasticity | D. Point elasticity
+Correct: D
+Model Answer: Option D
+
+---
+
+### QUESTION 104
+Type: MCQ
+Category: Microeconomics
+Text: ___ measures the elasticity at a particular point along the demand curve.
+Options: A. Arc elasticity | B. Elasticity of demand | C. Income elasticity | D. Point elasticity
+Correct: D
+Model Answer: Option D
+
+---
+
+### QUESTION 105
+Type: MCQ
+Category: Microeconomics
+Text: Which of the following is used when the changes in price are small or infinitesimal?
+Options: A. Arc elasticity | B. Elasticity of demand | C. Income elasticity | D. Point elasticity
+Correct: A
+Model Answer: Option A
+
+---
+
+### QUESTION 106
+Type: MCQ
+Category: Microeconomics
+Text: ___ measures the coefficient of price elasticity between two points along a demand curve.
+Options: A. Arc elasticity | B. Elasticity of demand | C. Income elasticity | D. Point elasticity
+Correct: A
+Model Answer: Option A
+
+---
+
+### QUESTION 107
+Type: MCQ
+Category: Microeconomics
+Text: ___ is defined as the degree of responsiveness of demand in response to a change in income.
+Options: A. Price elasticity of demand | B. Elasticity of demand | C. Income elasticity of demand | D. Point elasticity of demand
+Correct: C
+Model Answer: Option C
+
+---
+
+### QUESTION 108
+Type: MCQ
+Category: Microeconomics
+Text: ___ is defined as the responsiveness of quantity demanded of commodity A in relation to the price of another commodity B.
+Options: A. Price elasticity of demand | B. Cross elasticity | C. Income elasticity of demand | D. Point elasticity of demand
+Correct: B
+Model Answer: Option B
+
+---
+
+### QUESTION 109
+Type: MCQ
+Category: Production & Utility
+Text: The creation of utility in economics is known as:
+Options: A. Production | B. Economic activities | C. Quality | D. None of the above
+Correct: A
+Model Answer: Option A
+
+---
+
+### QUESTION 110
+Type: MCQ
+Category: Production & Utility
+Text: Anyone who in any way increases utility is a:
+Options: A. Supplier | B. Bargainer | C. Producer | D. Consumer
+Correct: C
+Model Answer: Option C
+
+---
+
+### QUESTION 111
+Type: MCQ
+Category: Production & Utility
+Text: Which form of capital does not change its form in the production process?
+Options: A. Circulating capital | B. Personal capital | C. Fixed capital | D. Private capital
+Correct: C
+Model Answer: Option C
+
+---
+
+### QUESTION 112
+Type: MCQ
+Category: Production & Utility
+Text: Which form of capital completely changes its form in the production process?
+Options: A. Circulating capital | B. Personal capital | C. Fixed capital | D. Private capital
+Correct: A
+Model Answer: Option A
+
+---
+
+### QUESTION 113
+Type: MCQ
+Category: Production & Utility
+Text: Which of the following is the wealth inherent in the individual?
+Options: A. Circulating capital | B. Personal capital | C. Fixed capital | D. Private capital
+Correct: B
+Model Answer: Option B
+
+---
+
+### QUESTION 114
+Type: MCQ
+Category: Production & Utility
+Text: Which of the following is NOT a factor that affects capital formation?
+Options: A. Savings | B. Population growth | C. Government policy | D. None of the above
+Correct: D
+Model Answer: Option D
+
+---
+
+### QUESTION 115
+Type: German
+Category: Macroeconomics
+Text: ___ is the means of valuation and payment in a system.
+Correct: Money
+Model Answer: Money
+
+---
+
+### QUESTION 116
+Type: MCQ
+Category: Macroeconomics
+Text: The issue of banknotes backed by government securities is referred to as:
+Options: A. Security issue | B. Economy issue | C. Fiduciary issue | D. Scarcity issue
+Correct: C
+Model Answer: Option C
+
+---
+
+### QUESTION 117
+Type: German
+Category: Macroeconomics
+Text: ___ is any means of payment that a debtor can legally compel his creditor to accept.
+Correct: Legal tender
+Model Answer: Legal tender
+
+---
+
+### QUESTION 118
+Type: MCQ
+Category: Macroeconomics
+Text: Which of the following is NOT among the motives for holding money?
+Options: A. Business motive | B. Transaction motive | C. Precautionary motive | D. Speculative motive
+Correct: A
+Model Answer: Option A
+
+---
+
+### QUESTION 119
+Type: German
+Category: Macroeconomics
+Text: Two extreme situations in which changes in price level greatly affect the value of money are inflation and ___.
+Correct: Deflation
+Model Answer: Deflation
+
+---
+
+### QUESTION 120
+Type: MCQ
+Category: Macroeconomics
+Text: ___ is generally recognised as an institution which is the apex of monetary and banking structure of a country.
+Options: A. Central bank | B. Commercial bank | C. Merchant bank | D. Mortgage bank
+Correct: A
+Model Answer: Option A
+
+---
+
+### QUESTION 121
+Type: MCQ
+Category: Macroeconomics
+Text: ___ is essentially a market that facilitates the borrowing and lending of short-term funds.
+Options: A. Short term marketing | B. Money market | C. Capital market | D. Short term money funds
+Correct: B
+Model Answer: Option B
+
+---
+
+### QUESTION 122
+Type: MCQ
+Category: Macroeconomics
+Text: ___ is essentially a market that facilitates the borrowing and lending of both medium and long-term funds.
+Options: A. Long term marketing | B. Money market | C. Capital market | D. Long term money funds
+Correct: C
+Model Answer: Option C
+
+---
+
+### QUESTION 123
+Type: MCQ
+Category: Macroeconomics
+Text: Who propounded the theory of absolute advantage in international trade?
+Options: A. Lionel Robbins | B. Adam Smith | C. Alfred Marshall | D. David Ricardo
+Correct: B
+Model Answer: Option B
+
+---
+
+### QUESTION 124
+Type: MCQ
+Category: Macroeconomics
+Text: Which economist used the concept of comparative advantage to explain international trade?
+Options: A. Lionel Robbins | B. Adam Smith | C. Alfred Marshall | D. David Ricardo
+Correct: D
+Model Answer: Option D
+
+---
+
+### QUESTION 125
+Type: German
+Category: Macroeconomics
+Text: ___ is a country's statement of income and expenditure on international trade for a year.
+Correct: Balance of payment
+Model Answer: Balance of payment
+
+---
+
+### QUESTION 126
+Type: German
+Category: Macroeconomics
+Text: ___ is invariably used to refer to the price of one currency in terms of another.
+Correct: Exchange rate
+Model Answer: Exchange rate
+
+---
+
+### QUESTION 127
+Type: MCQ
+Category: Macroeconomics
+Text: The best known standard under which exchange rate is fixed is:
+Options: A. Money standard | B. Currency standard | C. Gold standard | D. All of the above
+Correct: C
+Model Answer: Option C
+
+---
+
+### QUESTION 128
+Type: German
+Category: Macroeconomics
+Text: ___ policy is essentially the deliberate use of government taxation, expenditure and borrowing instruments to influence economic activities.
+Correct: Fiscal policy
+Model Answer: Fiscal policy
+
+---
+
+### QUESTION 129
+Type: MCQ
+Category: Macroeconomics
+Text: A tax levied equally on everybody, usually per adult male, irrespective of income or wealth, is called:
+Options: A. A value added tax | B. Ad valorem tax | C. Poll tax | D. Specific tax
+Correct: C
+Model Answer: Option C
+
+---
+
+### QUESTION 130
+Type: MCQ
+Category: Macroeconomics
+Text: Which of the following is a fixed sum imposed on a commodity (especially an imported one) irrespective of its value?
+Options: A. A value added tax | B. Ad valorem tax | C. Poll tax | D. Specific tax
+Correct: D
+Model Answer: Option D
+
+---
+
+### QUESTION 131
+Type: MCQ
+Category: Macroeconomics
+Text: A tax levied on the gain received as a result of the sale of capital assets such as stocks and shares is called:
+Options: A. A value added tax | B. Ad valorem tax | C. Poll tax | D. Specific tax
+Correct: B
+Model Answer: Option B
+
+---
+
+### QUESTION 132
+Type: MCQ
+Category: Macroeconomics
+Text: A tax which is imposed on a commodity at each stage of its production or distribution is called:
+Options: A. A value added tax | B. Ad valorem tax | C. Poll tax | D. Specific tax
+Correct: A
+Model Answer: Option A
+
+---
+
+### QUESTION 133
+Type: MCQ
+Category: Macroeconomics
+Text: Which of the following is NOT among the systems of taxation?
+Options: A. Progressive | B. Regressive | C. Incidence | D. Proportional
+Correct: C
+Model Answer: Option C
+
+---
+
+### QUESTION 134
+Type: MCQ
+Category: Macroeconomics
+Text: ___ simply means the final resting place of a tax burden.
+Options: A. Progressive taxation | B. Regressive taxation | C. Incidence of taxation | D. Proportional taxation
+Correct: C
+Model Answer: Option C
+
+---
+
+### QUESTION 135
+Type: MCQ
+Category: Macroeconomics
+Text: Which of the following compels all taxpayers (rich or poor) to surrender the same percentage of their incomes in tax payment?
+Options: A. Progressive taxation | B. Regressive taxation | C. Incidence of taxation | D. Proportional taxation
+Correct: D
+Model Answer: Option D
+
+---
+
+### QUESTION 136
+Type: MCQ
+Category: Macroeconomics
+Text: Which of the following is so graduated that its rate rises accordingly as the income of the taxpayer increases?
+Options: A. Progressive taxation | B. Regressive taxation | C. Incidence of taxation | D. Proportional taxation
+Correct: A
+Model Answer: Option A
+
+---
+
+### QUESTION 137
+Type: MCQ
+Category: Macroeconomics
+Text: Which of the following is NOT a type of external debt?
+Options: A. Productive and unproductive debt | B. Loans for socio-economic needs | C. Marketable and non-marketable debts | D. None of the options
+Correct: D
+Model Answer: Option D
+
+---
+
+### QUESTION 138
+Type: MCQ
+Category: Macroeconomics
+Text: Which of the following is/are instruments used for procuring domestic debt?
+Options: A. Treasury bills | B. Treasury certificates | C. Government development stock | D. All of the above
+Correct: D
+Model Answer: Option D
+
+---
+
+### QUESTION 139
+Type: MCQ
+Category: Macroeconomics
+Text: Which of the following is NOT a source of internal debt?
+Options: A. Merchant bank | B. Commercial bank | C. Non-bank public | D. None of the above
+Correct: D
+Model Answer: Option D
+
+---
+
+### QUESTION 140
+Type: German
+Category: Macroeconomics
+Text: An economy in which both the public and private sectors contribute substantially to growth is a ___ economy.
+Correct: Mixed
+Model Answer: Mixed
+
+---
+
+### QUESTION 141
+Type: German
+Category: Macroeconomics
+Text: The motive of holding money that avails people the opportunity to meet unforeseen circumstances is the ___ motive.
+Correct: Precautionary
+Model Answer: Precautionary
+
+---
+
+### QUESTION 142
+Type: German
+Category: Microeconomics
+Text: The point at which quantity demanded is equal to quantity supplied is called ___ price.
+Correct: Equilibrium
+Model Answer: Equilibrium
+
+---
+
+### QUESTION 143
+Type: German
+Category: Production & Utility
+Text: A type of capital that completely changes its form in the production process is called ___ capital.
+Correct: Circulating
+Model Answer: Circulating
